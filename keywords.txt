@@ -1,0 +1,79 @@
+#######################################
+# Syntax Coloring Map For ESP32_WS281x
+#######################################
+
+#######################################
+# Datatypes	(KEYWORD1)
+#######################################
+
+#######################################
+# Class
+#######################################
+
+ESP32_WS281x	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################	
+
+begin			KEYWORD2
+
+canShow			KEYWORD2
+show			KEYWORD2
+
+setPin			KEYWORD2
+getPin			KEYWORD2
+setBrightness		KEYWORD2
+getBrightness		KEYWORD2
+setLength		KEYWORD2
+getLength		KEYWORD2
+setPixelType		KEYWORD2
+strToPixelType		KEYWORD2
+
+
+setPixelColor		KEYWORD2
+getPixelColor		KEYWORD2
+getRibbonColor		KEYWORD2
+fill			KEYWORD2
+rainbow			KEYWORD2
+clear			KEYWORD2
+
+color			KEYWORD2
+colorHSV		KEYWORD2
+gamma8			KEYWORD2
+gamma32			KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+LED_RGB			LITERAL1
+LED_RBG			LITERAL1
+LED_GRB			LITERAL1
+LED_GBR			LITERAL1
+LED_BRG			LITERAL1
+LED_BGR			LITERAL1
+LED_WRGB		LITERAL1
+LED_WRBG		LITERAL1
+LED_WGRB		LITERAL1
+LED_WGBR		LITERAL1
+LED_WBRG		LITERAL1
+LED_WBGR		LITERAL1
+LED_RWGB		LITERAL1
+LED_RWBG		LITERAL1
+LED_RGWB		LITERAL1
+LED_RGBW		LITERAL1
+LED_RBWG		LITERAL1
+LED_RBGW		LITERAL1
+LED_GWRB		LITERAL1
+LED_GWBR		LITERAL1
+LED_GRWB		LITERAL1
+LED_GRBW		LITERAL1
+LED_GBWR		LITERAL1
+LED_GBRW		LITERAL1
+LED_BWRG		LITERAL1
+LED_BWGR		LITERAL1
+LED_BRWG		LITERAL1
+LED_BRGW		LITERAL1
+LED_BGWR		LITERAL1
+LED_BGRW		LITERAL1
