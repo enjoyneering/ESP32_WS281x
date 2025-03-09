@@ -35,15 +35,14 @@
 */
 /***************************************************************************************************/
 
-
 #include <Arduino.h>
 #include <WiFi.h>
 
 #include <ESP32_WS281x.h>
 
 
-#define DIN_PIN    13  //gpio pin connected to WS281x DIN (data signal input) pin
-#define LED_QNT    8   //quantity of WS281x LEDs
+#define DIN_PIN  13  //gpio pin connected to WS281x DIN (data signal input) pin
+#define LED_QNT  8   //quantity of WS281x LEDs
 
 
 ESP32_WS281x pixels(LED_QNT, DIN_PIN, LED_GRB);
