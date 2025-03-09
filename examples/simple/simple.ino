@@ -60,10 +60,10 @@ void setup()
   pixels.clear(); //set all pixel colors in the buffer to "off"
   pixels.show();  //send updated pixel color buffer to LED drivers
 
-  pixels.setPixelColor(0, 255, 0, 0); //set 1-st pixel in strip is #0 in buffer to red, RGB(255, 0, 0)
-  pixels.setPixelColor(2, 0, 255, 0); //set 3-rd pixel in strip is #2 in buffer to green, RGB(0, 255, 0)
-  pixels.setPixelColor(4, 0, 0, 255); //set 5-th pixel in strip is #4 in buffer to blue, RGB(0, 0, 255)
-  pixels.setPixelColor(6, 128,0,128); //set 7-th pixel in strip is #6 in buffer to purple, RGB(128,0,128)
+  pixels.setPixelColor(0, 255, 0, 0); //set 1-st pixel (number #0 in the buffer) to red, RGB(255, 0, 0)
+  pixels.setPixelColor(2, 0, 255, 0); //set 3-rd pixel (number #2 in the buffer) to green, RGB(0, 255, 0)
+  pixels.setPixelColor(4, 0, 0, 255); //set 5-th pixel (number #4 in the buffer) to blue, RGB(0, 0, 255)
+  pixels.setPixelColor(6, 128,0,128); //set 7-th pixel (number #6 in the buffer) to purple, RGB(128,0,128)
   pixels.show();                      //send updated pixel color buffer to LED drivers
   
   delay(2000);
