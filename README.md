@@ -13,6 +13,6 @@ Supports:
 [version]:       https://img.shields.io/badge/Version-1.0.0-green.svg
 [stars]:         https://img.shields.io/github/stars/enjoyneering/ESP32_WS281x.svg
 [stargazers]:    https://github.com/enjoyneering/ESP32_WS281x/stargazers
-[hit-count]:     https://views-counter.vercel.app/badge?pageId=enjoyneering/ESP32_WS281x%2FViews-Counter  !https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenjoyneering%2FESP32_WS281x&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
+[hit-count]:     https://views-counter.vercel.app/badge?pageId=enjoyneering/ESP32_WS281x%2FViews-Counter
 [github-issues]: https://img.shields.io/github/issues/enjoyneering/ESP32_WS281x.svg
 [issues]:        https://github.com/enjoyneering/ESP32_WS281x/issues/
