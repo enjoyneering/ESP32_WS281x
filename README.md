@@ -1,4 +1,4 @@
-[![license-badge][]][license] ![version] [![stars][]][stargazers] ![hit-count] [![github-issues][]][issues]
+[![license-badge][]][license] ![version] [![stars][]][stargazers] [![github-issues][]][issues] ![hit-count]
 
 # ESP32_WS281x
 
@@ -13,6 +13,6 @@ Supports:
 [version]:       https://img.shields.io/badge/Version-1.0.0-green.svg
 [stars]:         https://img.shields.io/github/stars/enjoyneering/ESP32_WS281x.svg
 [stargazers]:    https://github.com/enjoyneering/ESP32_WS281x/stargazers
-[hit-count]:     https://views-counter.vercel.app/badge?pageId=enjoyneering/ESP32_WS281x%2FViews-Counter
 [github-issues]: https://img.shields.io/github/issues/enjoyneering/ESP32_WS281x.svg
 [issues]:        https://github.com/enjoyneering/ESP32_WS281x/issues/
+[hit-count]:     https://views-counter.vercel.app/badge?pageId=enjoyneering/ESP32_WS281x%2FViews-Counter
